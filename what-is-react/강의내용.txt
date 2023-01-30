@@ -1,0 +1,9 @@
+1. 프로젝트 폴더 생성 
+2. npm init -y 명령어 (npm 프로젝트로 만들기)
+3. npx serve (디렉토리를 파일서버로 웹서비스 함)
+
+<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+https://create-react-app.dev
+npx create-react_app tic-tac-toe  
